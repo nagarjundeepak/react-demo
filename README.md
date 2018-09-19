@@ -1,6 +1,6 @@
 # React Demo App
 
-a simple react app adding and removing components
+a simple react app adding and removing components ina shopping cart.
 
 ### Prerequisites
 
